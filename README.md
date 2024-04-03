@@ -1,3 +1,3 @@
-# Grps sso
+# Grpc sso
 
 Grps sso service written in `Go`
